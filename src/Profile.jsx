@@ -24,7 +24,7 @@ const Profile = () => {
     <body className="flex items-center justify-center antialiased">
       <div className="profile flex-col w-11/12 sm:w-3/4" data-aos="fade" data-aos-duration="1700">
       <div className="relative">
-      <a target="_blank" href="https://github.com/dinhnhan05/myprofileweb" rel="noreferrer" className="text-gray-100 hover:text-gray-300 transition duration-200 absolute top-2.5 right-0 text-[17px]"><i class="ri-download-2-fill"></i> Source Code</a></div>
+      <a target="_blank" href="https://github.com/dinhnhan05/profile" rel="noreferrer" className="text-gray-100 hover:text-gray-300 transition duration-200 absolute top-2.5 right-0 text-[17px]"><i class="ri-download-2-fill"></i> Source Code</a></div>
         <div className="profile__header pt-6">
          
           <div className="profile__header_avatar relative">
