@@ -43,7 +43,7 @@ const Profile = () => {
         
         <ul className="profile__social flex items-center gap-x-1 my-2 text-white-600">
   <li className="hover:bg-blue-500 active:bg-blue-600 focus:outline-none focus:ring focus:ring-blue-300 transition duration-200">
-    <a target="_blank" href="https://www.facebook.com/KiryosDinhNhan?mibextid=ZbWKwL" rel="noreferrer">
+    <a target="_blank" href="https://www.facebook.com/100089561570925" rel="noreferrer">
       <i className="ri-facebook-circle-fill text-2xl"></i>
     </a>
   </li>
