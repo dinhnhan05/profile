@@ -64,7 +64,7 @@ const Profile = () => {
             I'm currently 18 years old from <strong>Gia Lai, Vietnam</strong>. My hobbies are playing soccer, playing
             games, and watching movies. In my free time, I often listen to music or write website code. I'm quite
             interested in writing website code. I often use{' '}
-            <strong>HTML, CSS, JavaScript, TailwindCss, ReactJs and etc ...</strong> You can contact and connect.Wish you a nice day
+            <strong>HTML, CSS, JavaScript, TailwindCss, ReactJs and etc...</strong> You can contact and connect.Wish you a nice day
           </p></div>
 
           <h3 className="profile__title text-center text-xl font-bold"><strong>#</strong> Join my <span>community</span></h3>
