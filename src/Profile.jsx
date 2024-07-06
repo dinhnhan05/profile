@@ -61,7 +61,7 @@ const Profile = () => {
 
         <div className="profile__content">
           <p className="text-gray-300 text-lg font-normal my-2">
-            I'm currently 18 years old from <strong>Gia Lai, Vietnam</strong>. My hobbies are playing soccer, playing
+            I'm currently 18 Chào các bạn years old from <strong>Gia Lai, Vietnam</strong>. My hobbies are playing soccer, playing
             games, and watching movies. In my free time, I often listen to music or write website code. I'm quite
             interested in writing website code. I often use{' '}
             <strong>HTML, CSS, JavaScript, TailwindCss, ReactJs and etc...</strong> You can contact and connect.Wish you a nice day
